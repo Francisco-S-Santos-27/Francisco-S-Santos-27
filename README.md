@@ -1,10 +1,11 @@
-
+<h2>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Francisco S Santos! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Óla👋,+meu+nome+e+Francisco+S.+Santos;Tenho+40+anos,;sou+de+Aparecida+de+Goiânia,+GO;+estudo+engenharia+de+software,+dev+Full-Stack+;Seja+Bem+vindos!+:%29)](https://git.io/typing-svg)
 <div align="center">  
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-S-Santos-27&layout=compact&hide_border=true&title_color=00ff00&text_color=ff1493&bg_color=0d1117" />
-</div>
+
 
 ### 🚀 Skills:
 
